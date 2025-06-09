@@ -1,10 +1,12 @@
 # Academia Portal - Course Registration System
 
+
 ## Overview
 
 Academia Portal is a multi-user course registration system designed to facilitate academic course management. The system provides a terminal-based interface for administrators, faculty members, and students to interact with a centralized database for course registration and management.
 
-![Academia Portal](https://github.com/yourusername/academia-portal/raw/main/screenshots/main_menu.png)
+![Academia Portal](https://github.com/user-attachments/assets/f580e20c-34bf-4961-a141-a36fd9d26a7c)
+
 
 ## Features
 
