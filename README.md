@@ -73,8 +73,7 @@ The system uses four text files for data persistence:
 
 ### Building from Source
 ```bash
-git clone https://github.com/freakun0025/academia-portal.git
-cd academia-portal
+git clone https://github.com/freakun0025/AcademiaApp.git
 make
 ```
 
